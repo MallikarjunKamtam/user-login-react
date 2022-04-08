@@ -1,0 +1,22 @@
+.users {
+  margin: 20px;
+
+  align-items: center;
+  background-color: #222;
+}
+
+.users ul {
+  background-color: #222;
+  border-radius: 30px;
+}
+
+.users li {
+  list-style-type: none;
+  background-color: #111;
+  color: white;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  display: block;
+  border-radius: 20px;
+  padding: 10px 0;
+}
